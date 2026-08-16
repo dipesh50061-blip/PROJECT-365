@@ -63,7 +63,7 @@ to:
 
 | Day | Project                       | Focus                 | Status |
 | --: | ----------------------------- | --------------------- | :----: |
-|  01 | [LogForge](./day-001-Logforge) | Python & Log Analysis |    ✅   |
+|  01 | [LogForge](./Project_365/Day-001-Logforge) | Python & Log Analysis |    ✅   |
 
 **Progress: 1 / 365**
 
@@ -86,7 +86,7 @@ A Python-based log analysis tool that reads application logs and generates a str
 
 **Technologies:** Python
 
-👉 [View Day 01 — LogForge](./day-001-logforge)
+👉 [View Day 01 — LogForge](./Project_365/Day-001-Logforge)
 
 ---
 
