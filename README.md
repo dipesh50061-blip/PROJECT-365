@@ -86,7 +86,7 @@ A Python-based log analysis tool that reads application logs and generates a str
 
 **Technologies:** Python
 
-👉 [View Day 01 — LogForge](./day-01-logforge)
+👉 [View Day 01 — LogForge](./day-001-logforge)
 
 ---
 
