@@ -64,7 +64,7 @@ to:
 | Day | Project                                    | Focus                    | Status |
 | --: | ------------------------------------------ | ------------------------ | :----: |
 |  01 | [LogForge](./Project_365/Day-001-Logforge) | Python & Log Analysis    |    ✅   |
-|  02 | [TaskFlow](./Project_365/Day-002-TaskFlow) | Python & Task Management |    ✅   |
+|  02 | [TaskFlow](./Project_365/Day-002-Task_Manager)| Python & Task Management |    ✅   |
 
 **Progress: 2 / 365**
 
@@ -110,7 +110,7 @@ TaskFlow introduces **persistent data storage** and more structured application 
 
 **Technologies:** Python, JSON
 
-👉 [View Day 02 — TaskFlow](./Project_365/Day-002-TaskFlow)
+👉 [View Day 02 — TaskFlow](./Project_365/Day-002-Task_Manager)
 
 ---
 
