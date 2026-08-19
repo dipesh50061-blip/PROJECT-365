@@ -61,11 +61,12 @@ to:
 
 # 📅 Progress
 
-| Day | Project                       | Focus                 | Status |
-| --: | ----------------------------- | --------------------- | :----: |
-|  01 | [LogForge](./Project_365/Day-001-Logforge) | Python & Log Analysis |    ✅   |
+| Day | Project                                    | Focus                    | Status |
+| --: | ------------------------------------------ | ------------------------ | :----: |
+|  01 | [LogForge](./Project_365/Day-001-Logforge) | Python & Log Analysis    |    ✅   |
+|  02 | [TaskFlow](./Project_365/Day-002-TaskFlow) | Python & Task Management |    ✅   |
 
-**Progress: 1 / 365**
+**Progress: 2 / 365**
 
 ---
 
@@ -87,6 +88,29 @@ A Python-based log analysis tool that reads application logs and generates a str
 **Technologies:** Python
 
 👉 [View Day 01 — LogForge](./Project_365/Day-001-Logforge)
+
+---
+
+## Day 02 — TaskFlow 📋
+
+A Python-based task management system designed to create, manage, track, and organize tasks.
+
+TaskFlow introduces **persistent data storage** and more structured application architecture compared with the first Project 365 build.
+
+### Features
+
+* Add tasks
+* View tasks
+* Mark tasks as completed
+* Delete tasks
+* Store tasks using JSON
+* Automatically load saved tasks
+* Persistent task data
+* Modular Python architecture
+
+**Technologies:** Python, JSON
+
+👉 [View Day 02 — TaskFlow](./Project_365/Day-002-TaskFlow)
 
 ---
 
@@ -230,7 +254,7 @@ Ultimately:
 # 📌 Progress Tracker
 
 * [x] Day 01 — LogForge
-* [ ] Day 02
+* [x] Day 02 — TaskFlow
 * [ ] Day 03
 * [ ] Day 04
 * [ ] Day 05
@@ -259,5 +283,6 @@ Currently focused on building strong foundations in Python, data, machine learni
 
 **Don't just understand. Improve.**
 
-### `Day 1 / 365 → COMPLETE ✅`
+### `Day 2 / 365 → COMPLETE ✅`
+
 
