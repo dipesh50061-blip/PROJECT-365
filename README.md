@@ -61,12 +61,13 @@ to:
 
 # 📅 Progress
 
-| Day | Project                                    | Focus                    | Status |
-| --: | ------------------------------------------ | ------------------------ | :----: |
-|  01 | [LogForge](./Project_365/Day-001-Logforge) | Python & Log Analysis    |    ✅   |
-|  02 | [TaskFlow](./Project_365/Day-002-Task_Manager)| Python & Task Management |    ✅   |
+| Day | Project                                                  | Focus                       | Status |
+| --: | -------------------------------------------------------- | --------------------------- | :----: |
+|  01 | [LogForge](./Project_365/Day-001-Logforge)               | Python & Log Analysis       |    ✅   |
+|  02 | [TaskFlow](./Project_365/Day-002-Task_Manager)           | Python & Task Management    |    ✅   |
+|  03 | [Expense Tracker](./Project_365/Day-003-Expense_Tracker) | Python & Expense Management |    ✅   |
 
-**Progress: 2 / 365**
+**Progress: 3 / 365**
 
 ---
 
@@ -111,6 +112,29 @@ TaskFlow introduces **persistent data storage** and more structured application 
 **Technologies:** Python, JSON
 
 👉 [View Day 02 — TaskFlow](./Project_365/Day-002-Task_Manager)
+
+---
+
+## Day 03 — Expense Tracker 💰
+
+A Python-based expense tracking application designed to help users record, manage, and analyze their daily spending.
+
+This project builds on the Python fundamentals developed during the previous Project 365 projects while introducing more practical **data management and financial tracking logic**.
+
+### Features
+
+* Add expenses
+* Record expense amount
+* Categorize expenses
+* Add expense descriptions
+* View recorded expenses
+* Calculate total expenses
+* Track spending by category
+* Simple command-line interface
+
+**Technologies:** Python
+
+👉 [View Day 03 — Expense Tracker](./Project_365/Day-003-Expense_Tracker)
 
 ---
 
@@ -255,7 +279,7 @@ Ultimately:
 
 * [x] Day 01 — LogForge
 * [x] Day 02 — TaskFlow
-* [ ] Day 03
+* [x] Day 03 — Expense Tracker
 * [ ] Day 04
 * [ ] Day 05
 * [ ] Day 06
@@ -283,6 +307,6 @@ Currently focused on building strong foundations in Python, data, machine learni
 
 **Don't just understand. Improve.**
 
-### `Day 2 / 365 → COMPLETE ✅`
+### `Day 3 / 365 → COMPLETE ✅`
 
 
