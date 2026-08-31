@@ -1,8 +1,16 @@
 # 💰 Expense Tracker
 
-A simple and practical **Python-based Expense Tracker** that helps users record, manage, and analyze their daily expenses.
+A simple and practical **web-based Expense Tracker** that helps users record, manage, and analyze their daily expenses.
 
 This project was built as part of my **Project 365 journey — Day 003**, where I am consistently building projects to strengthen my programming and problem-solving skills.
+
+---
+
+## 🌐 Live Demo
+
+👉 [**tracking-expense-system.netlify.app**](https://tracking-expense-system.netlify.app/)
+
+Try the Expense Tracker directly in your browser.
 
 ---
 
@@ -20,32 +28,21 @@ This project was built as part of my **Project 365 journey — Day 003**, where 
 
 ## 🛠️ Tech Stack
 
-**Language**
+**Technologies**
 
-* Python
+* HTML
+* CSS
+* JavaScript
 
 **Concepts Used**
 
-* Variables
-* Data types
-* Functions
-* Conditional statements
-* Loops
-* Lists / Dictionaries
-* User input
-* Basic data processing
-
----
-
-## 📂 Project Structure
-
-```text
-Expense-Tracker/
-│
-├── expense_tracker.py
-├── README.md
-└── .gitignore
-```
+* DOM manipulation
+* Event handling
+* Form validation
+* Data processing
+* Arrays and objects
+* Local data management
+* Responsive web design
 
 ---
 
@@ -63,11 +60,9 @@ git clone <your-repository-url>
 cd Expense-Tracker
 ```
 
-### 3. Run the program
+### 3. Open the website
 
-```bash
-python expense_tracker.py
-```
+Open the `index.html` file in your browser.
 
 ---
 
@@ -92,7 +87,7 @@ Store Expense
   ↓
 View / Calculate Expenses
   ↓
-Exit
+Manage Spending
 ```
 
 ---
@@ -102,12 +97,7 @@ Exit
 ```text
 ===== EXPENSE TRACKER =====
 
-1. Add Expense
-2. View Expenses
-3. Total Expenses
-4. Exit
-
-Enter your choice: 1
+Add Expense
 
 Amount: ₹250
 Category: Food
@@ -122,12 +112,14 @@ Expense added successfully!
 
 While building this project, I practiced:
 
-* Writing functions to organize code
-* Working with user input
-* Using loops and conditions
-* Managing data using Python data structures
+* Creating a functional web interface
+* Working with HTML, CSS, and JavaScript
+* Handling user input
+* Working with arrays and objects
 * Performing calculations on stored data
-* Designing a simple command-line application
+* DOM manipulation
+* Form validation
+* Building a responsive interface
 * Breaking a real-world problem into programming logic
 
 ---
@@ -136,14 +128,15 @@ While building this project, I practiced:
 
 I plan to improve this project by adding:
 
-* 💾 Persistent data storage
+* 💾 More advanced persistent data storage
 * 📄 CSV / JSON support
-* 📊 Expense analytics
+* 📊 Advanced expense analytics
 * 📈 Spending visualizations
 * 🔍 Advanced filtering
 * 📅 Monthly expense reports
 * 🗄️ Database integration
-* 🌐 Web interface
+* 🔐 User accounts
+* 🌐 Backend integration
 
 ---
 
@@ -169,8 +162,9 @@ Continuing the Project 365 journey 🚀
 
 **Depesh Kumar**
 
-Aspiring **AI Engineer** | Python Developer | Building in Public
+**AI Engineer Intern** | Python Developer | Building in Public
 
 ---
 
 ⭐ If you found this project useful, consider giving the repository a star!
+
