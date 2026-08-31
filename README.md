@@ -136,6 +136,12 @@ This project builds on the Python fundamentals developed during the previous Pro
 
 👉 [View Day 03 — Expense Tracker](./Project_365/Day-003-Expense_Tracker)
 
+## 🌐 Live Demo
+
+👉 [**tracking-expense-system.netlify.app**](https://tracking-expense-system.netlify.app/)
+
+Try the Expense Tracker directly in your browser.
+
 ---
 
 # 📈 Development Principles
