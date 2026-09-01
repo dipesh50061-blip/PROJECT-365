@@ -61,13 +61,14 @@ to:
 
 # 📅 Progress
 
-| Day | Project                                                  | Focus                       | Status |
-| --: | -------------------------------------------------------- | --------------------------- | :----: |
-|  01 | [LogForge](./Project_365/Day-001-Logforge)               | Python & Log Analysis       |    ✅   |
-|  02 | [TaskFlow](./Project_365/Day-002-Task_Manager)           | Python & Task Management    |    ✅   |
-|  03 | [Expense Tracker](./Project_365/Day-003-Expense_Tracker) | Python & Expense Management |    ✅   |
+| Day | Project                                                  | Focus                                     | Status |
+| --: | -------------------------------------------------------- | ----------------------------------------- | :----: |
+|  01 | [LogForge](./Project_365/Day-001-Logforge)               | Python & Log Analysis                     |    ✅   |
+|  02 | [TaskFlow](./Project_365/Day-002-Task_Manager)           | Python & Task Management                  |    ✅   |
+|  03 | [Expense Tracker](./Project_365/Day-003-Expense_Tracker) | Python & Expense Management               |    ✅   |
+|  04 | [Study Manager](./Project_365/Day-004-Study_Manager)     | Python, Data Management & Web Development |    ✅   |
 
-**Progress: 3 / 365**
+**Progress: 4 / 365**
 
 ---
 
@@ -136,11 +137,47 @@ This project builds on the Python fundamentals developed during the previous Pro
 
 👉 [View Day 03 — Expense Tracker](./Project_365/Day-003-Expense_Tracker)
 
-## 🌐 Live Demo
+### 🌐 Live Demo
 
 👉 [**tracking-expense-system.netlify.app**](https://tracking-expense-system.netlify.app/)
 
 Try the Expense Tracker directly in your browser.
+
+---
+
+## Day 04 — Study Manager 📚
+
+A practical study-session management tool designed to help users **record, manage, search, edit, delete, and analyze their study sessions**.
+
+Day 04 expands the Project 365 journey by combining Python programming concepts with data management and a web-based interface.
+
+### Features
+
+* ➕ Add study sessions
+* 📚 Store subjects and topics
+* ⏱️ Record study duration
+* 📅 Store study dates
+* 📋 View study sessions
+* 🔍 Search sessions by subject or topic
+* 📊 Calculate total study time
+* 📈 Calculate average study duration
+* 📚 View subject-wise statistics
+* ✏️ Edit study sessions
+* 🗑️ Delete study sessions
+* 💾 Persistent study data
+* 🆔 Automatically generate session IDs
+* ✅ Input validation
+* 📱 Responsive web interface
+
+**Technologies:** Python, JSON, HTML, CSS, JavaScript, Local Storage
+
+### 🌐 Live Demo
+
+👉 [**study-manageer.netlify.app**](https://study-manageer.netlify.app/)
+
+Try Study Manager directly in your browser.
+
+👉 [View Day 04 — Study Manager](./Project_365/Day-004-Study_Manager)
 
 ---
 
@@ -286,7 +323,7 @@ Ultimately:
 * [x] Day 01 — LogForge
 * [x] Day 02 — TaskFlow
 * [x] Day 03 — Expense Tracker
-* [ ] Day 04
+* [x] Day 04 — Study Manager
 * [ ] Day 05
 * [ ] Day 06
 * [ ] Day 07
@@ -313,6 +350,6 @@ Currently focused on building strong foundations in Python, data, machine learni
 
 **Don't just understand. Improve.**
 
-### `Day 3 / 365 → COMPLETE ✅`
+### `Day 4 / 365 → COMPLETE ✅`
 
 
